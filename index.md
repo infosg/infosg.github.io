@@ -1,8 +1,8 @@
-# Notable Information #
+# Notable Information
 
 <br>
 
-### MOM COVID-19 Information ###
+### MOM COVID-19 Information
 
 Read more here: [https://www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19)
 
@@ -10,7 +10,7 @@ Read more here: [https://www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-1
 
 
 <br><br>
-### GOV.SG WhatsApp - Updates from Government ###
+### GOV.SG WhatsApp - Updates from Government
 
 More info here: [https://www.gov.sg/article/govsg-on-whatsapp](https://www.gov.sg/article/govsg-on-whatsapp)
 
