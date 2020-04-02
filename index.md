@@ -1,10 +1,9 @@
 # Notable Information #
-Singapore Information
-==========
 
 <br>
 
-#### MOM COVID-19 Information ####
+### MOM COVID-19 Information ###
+
 Read more here: [https://www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19)
 
 *Daily update from MOM. Official information and updates on COVID-19. Avoid fake news here.*
