@@ -16,7 +16,7 @@ WHO official information and updates on COVID-19.
 
 
 >Can the virus that causes COVID-19 be transmitted through the air?
-Studies to date suggest that the virus that causes COVID-19 is mainly transmitted through contact with respiratory droplets rather than through the air.  See previous answer on “How does COVID-19 spread?”
+>Studies to date suggest that the virus that causes COVID-19 is mainly transmitted through contact with respiratory droplets rather than through the air.  See previous answer on “How does COVID-19 spread?”
 <https://www.who.int/news-room/q-a-detail/q-a-coronaviruses>
 
 ### GOV.SG WhatsApp - Updates from Government
