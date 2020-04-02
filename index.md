@@ -4,7 +4,7 @@ Notable Information
 
 
 ### **MOM COVID-19 Information** ###
-(https://www.moh.gov.sg/covid-19)
+Read more here: [https://www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19)
 
 Daily update from MOM. Official information and updates on COVID-19. Avoid fake news here.
 
@@ -12,6 +12,6 @@ Daily update from MOM. Official information and updates on COVID-19. Avoid fake 
 
 ### GOV.SG WhatsApp - Updates from Government ###
 
-*More info here* (https://www.gov.sg/article/govsg-on-whatsapp)
+More info here: [https://www.gov.sg/article/govsg-on-whatsapp](https://www.gov.sg/article/govsg-on-whatsapp)
 
-*Sign-up using this* (https://go.gov.sg/whatsapp)
+Sign-up here: [https://go.gov.sg/whatsapp](https://go.gov.sg/whatsapp)
