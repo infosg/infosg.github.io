@@ -28,9 +28,9 @@
 
 ## References and additional resources
 
-i. <https://techcrunch.com/2020/04/01/zoom-doom/>
-ii. <https://www.theregister.co.uk/2020/04/01/zoom_spotlight/>
-iii. <https://www.inc.com/jason-aten/hackers-are-trying-to-get-into-your-zoom-meetings-here-are-5-ways-to-stop-them.html>
-iv. <https://blog.zoom.us/wordpress/2020/03/20/keep-uninvited-guests-out-of-your-zoom-event/>
-v. <https://www.itnews.com.au/news/windows-flaw-lets-zoom-leak-network-credentials-runs-code-remotely-545883>
-vi. <https://www.cyber.gov.au/publications/web-conferencing-security>
+i. <https://techcrunch.com/2020/04/01/zoom-doom/>  
+ii. <https://www.theregister.co.uk/2020/04/01/zoom_spotlight/>  
+iii. <https://www.inc.com/jason-aten/hackers-are-trying-to-get-into-your-zoom-meetings-here-are-5-ways-to-stop-them.html>  
+iv. <https://blog.zoom.us/wordpress/2020/03/20/keep-uninvited-guests-out-of-your-zoom-event/>  
+v. <https://www.itnews.com.au/news/windows-flaw-lets-zoom-leak-network-credentials-runs-code-remotely-545883>  
+vi. <https://www.cyber.gov.au/publications/web-conferencing-security>  
