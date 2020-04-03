@@ -29,3 +29,5 @@ Sign-up here: <https://go.gov.sg/whatsapp>
   
 ### Government Website
 Access here: [GOV.SG](https://www.gov.sg)
+
+Stayhome,staysafe
