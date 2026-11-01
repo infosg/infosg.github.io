@@ -22,7 +22,7 @@ _Last reviewed: November 2026._
 
 ## Digital safety
 
-- [Securing Zoom meetings](../securing-zoom.md)
+- [Securing Zoom meetings](../securing-zoom.html)
 
 ## Your data rights
 
@@ -35,3 +35,6 @@ The Personal Data Protection Act (PDPA) governs how organisations handle your pe
 - SCDF: <https://www.scdf.gov.sg>
 - SGSecure: <https://www.sgsecure.sg>
 - PDPC: <https://www.pdpc.gov.sg>
+
+---
+[← Back to Info65 home](../index.html)

@@ -6,8 +6,8 @@ Key information for Singapore citizens, with links to official government source
 
 ## Guides for citizens
 
-- [Money & retirement (CPF)](citizens/money-cpf.md)
-- [Healthcare](citizens/healthcare.md)
-- [Housing](citizens/housing.md)
-- [Safety, scams & emergencies](citizens/safety-scams.md)
-- [Government services directory](citizens/services-directory.md)
+- [Money & retirement (CPF)](citizens/money-cpf.html)
+- [Healthcare](citizens/healthcare.html)
+- [Housing](citizens/housing.html)
+- [Safety, scams & emergencies](citizens/safety-scams.html)
+- [Government services directory](citizens/services-directory.html)

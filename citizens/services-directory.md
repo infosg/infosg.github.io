@@ -22,3 +22,6 @@ One-stop links for common citizen services.
 | Report scams | [Police](https://www.police.gov.sg) |
 
 > Tip: Use the official `.gov.sg` address. Be wary of look-alike sites.
+
+---
+[← Back to Info65 home](../index.html)
