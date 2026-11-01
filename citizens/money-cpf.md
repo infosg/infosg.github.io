@@ -26,4 +26,4 @@ The Central Provident Fund (CPF) is Singapore's mandatory savings scheme for cit
 - MoneySense (financial guidance): <https://www.moneysense.gov.sg>
 
 ---
-[← Back to Info65 home](../index.html)
+[← Back to The Info Hub home](../index.html)

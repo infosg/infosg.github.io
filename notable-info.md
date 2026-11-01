@@ -33,4 +33,4 @@ Access here: [GOV.SG](https://www.gov.sg)
 Stay home, stay safe
 
 ---
-[← Back to Info65 home](index.html)
+[← Back to The Info Hub home](index.html)

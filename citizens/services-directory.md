@@ -24,4 +24,4 @@ One-stop links for common citizen services.
 > Tip: Use the official `.gov.sg` address. Be wary of look-alike sites.
 
 ---
-[← Back to Info65 home](../index.html)
+[← Back to The Info Hub home](../index.html)

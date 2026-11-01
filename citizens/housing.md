@@ -24,4 +24,4 @@ Most Singapore citizens live in public housing built and managed by the Housing 
 - CPF housing: <https://www.cpf.gov.sg>
 
 ---
-[← Back to Info65 home](../index.html)
+[← Back to The Info Hub home](../index.html)

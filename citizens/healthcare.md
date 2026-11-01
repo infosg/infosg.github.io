@@ -26,4 +26,4 @@ Singapore's system is built on "3M": MediSave, MediShield Life and MediFund, wit
 - CHAS: <https://www.chas.sg>
 
 ---
-[← Back to Info65 home](../index.html)
+[← Back to The Info Hub home](../index.html)

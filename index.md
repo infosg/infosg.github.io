@@ -1,4 +1,4 @@
-# Info65
+# The Info Hub
 
 Key information for Singapore citizens, with links to official government sources.
 

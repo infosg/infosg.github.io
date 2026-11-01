@@ -37,4 +37,4 @@ The Personal Data Protection Act (PDPA) governs how organisations handle your pe
 - PDPC: <https://www.pdpc.gov.sg>
 
 ---
-[← Back to Info65 home](../index.html)
+[← Back to The Info Hub home](../index.html)
