@@ -11,8 +11,3 @@ Key information for Singapore citizens, with links to official government source
 - [Housing](citizens/housing.md)
 - [Safety, scams & emergencies](citizens/safety-scams.md)
 - [Government services directory](citizens/services-directory.md)
-
-## Other pages
-
-- [Notable information](notable-infosg.md)
-- [Securing Zoom meetings](securing-zoom.md)
