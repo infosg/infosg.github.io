@@ -11,6 +11,7 @@ Key information for Singapore citizens, with links to official government source
 - [Tax (IRAS)](citizens/tax.html)
 - [Employment & workplace rights](citizens/employment.html)
 - [Support schemes](citizens/support-schemes.html)
+- [Incentives, credits, rebates & top-ups](citizens/incentives.html)
 
 ### Health, home & family
 - [Healthcare](citizens/healthcare.html)

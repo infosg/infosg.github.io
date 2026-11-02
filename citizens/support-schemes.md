@@ -16,6 +16,8 @@ Singapore has many schemes for lower-income households, seniors, workers and fam
 - **Pioneer Generation and Merdeka Generation Packages:** healthcare and other benefits for the respective cohorts.
 - **Retirement adequacy:** see [CPF](money-cpf.html) for CPF LIFE and top-ups.
 
+See the full [incentives, credits, rebates & top-ups](incentives.html) list for more.
+
 ## Help for workers
 
 - **Workfare Income Supplement (WIS) and Workfare Skills Support:** support for eligible lower-wage workers, paid partly into CPF.
