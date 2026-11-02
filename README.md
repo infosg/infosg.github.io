@@ -4,6 +4,6 @@ A small GitHub Pages site with key information for Singapore citizens, linking t
 
 - `index.md`: landing page
 - `citizens/`: topic guides (CPF, healthcare, housing, safety, services directory)
-- `notable-info.md`, `securing-zoom.md`: other pages
+- `securing-zoom.md`: other page
 
 This is an unofficial guide and is not government advice. Pages carry a "last reviewed" date; confirm details with the linked official sources.
