@@ -6,8 +6,19 @@ Key information for Singapore citizens, with links to official government source
 
 ## Guides for citizens
 
+### Money & work
 - [Money & retirement (CPF)](citizens/money-cpf.html)
+- [Tax (IRAS)](citizens/tax.html)
+- [Employment & workplace rights](citizens/employment.html)
+- [Support schemes](citizens/support-schemes.html)
+
+### Health, home & family
 - [Healthcare](citizens/healthcare.html)
 - [Housing](citizens/housing.html)
+- [Family & life events](citizens/family-life-events.html)
+- [Education & skills](citizens/education-skills.html)
+
+### Identity, safety & services
+- [Identity & documents](citizens/identity-documents.html)
 - [Safety, scams & emergencies](citizens/safety-scams.html)
 - [Government services directory](citizens/services-directory.html)
